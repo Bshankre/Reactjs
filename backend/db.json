@@ -1,0 +1,16 @@
+{
+  "course": [
+    {
+      "id": "34e3",
+      "name": "online cafe, Bhagyashree",
+      "email": "bhagyashankre20@gmail.com",
+      "pass1": "12",
+      "pass2": "12",
+      "phone": "9986301193",
+      "subject": "java",
+      "date": "2024-10-09",
+      "stream": "ECE",
+      "message": ""
+    }
+  ]
+}
